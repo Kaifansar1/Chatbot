@@ -32,8 +32,7 @@ This is a simple AI chatbot built with Python and Streamlit. It provides real-ti
 3. ✅ Run the chatbot:
 4. ✅ Your browser will open. Ask questions like:
 - `What is AI?`
-- `meaning empathy`
-- `Who is Elon Musk?`
+- `what is neural network`
 
 ---
 
