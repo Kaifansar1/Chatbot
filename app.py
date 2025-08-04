@@ -59,7 +59,7 @@ def get_wiki_summary(query):
 # ---------- STREAMLIT CHAT UI ----------
 
 st.set_page_config(page_title="💬 AI ChatBot", layout="centered")
-st.markdown("<h1 style='text-align:center; color:#00A6FB;'>🤖 Real-Time ChatBot</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center; color:#00A6FB;'>🤖 Real-Time ChatBot (Kaif Ansari) </h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align:center;'>Ask me anything: weather, jokes, news, quotes, meanings, general topics!</p>", unsafe_allow_html=True)
 st.markdown("---")
 
@@ -101,4 +101,4 @@ for speaker, text in st.session_state.chat_history:
     st.markdown(f"**{speaker}:** {text}")
 
 st.markdown("---")
-st.markdown("<p style='text-align:center; font-size:13px; color:gray;'>Built by Kaif Ansari with ❤️ using Streamlit </p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; font-size:13px; color:gray;'>👨‍💻 Built by Kaif Ansari using Python, RESTful APIs & Streamlit with ❤️</p>", unsafe_allow_html=True)
