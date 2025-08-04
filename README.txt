@@ -1,6 +1,8 @@
- 🤖 Offline AI ChatBot (No API Key Needed)
+ 🤖 AI ChatBot
 
-This is a simple AI chatbot built with Python and Streamlit. It provides real-time answers to general knowledge questions and word meanings — all without needing any API key.
+live link 🔗(https://chatbot-9tk3bqwzrsxt5usqpgcd9f.streamlit.app/) 
+
+This is a simple AI chatbot built with Python and Streamlit. It provides real-time answers to  questions? 
 
 ---
 
@@ -9,7 +11,7 @@ This is a simple AI chatbot built with Python and Streamlit. It provides real-ti
 - 📚 Wikipedia-based answers (no login required)
 - 📘 Word meaning lookup using Free Dictionary API
 - 💬 Simple chat interface
-- 🧠 No API keys or authentication needed
+- 🧠 No authentication needed
 - 🟢 Works even with limited internet
 
 ---
@@ -46,14 +48,9 @@ This is a simple AI chatbot built with Python and Streamlit. It provides real-ti
 
 ---
 
-## 📌 Note
-
-This version is designed to work without API keys or complex setup. Great for:
-- Learning projects
-- College submissions
-- Lightweight demos
 
 ---
 
-👨‍💻 Built with ❤️ using Streamlit
+👨‍💻 Developed by
+Kaif Ansari
 
