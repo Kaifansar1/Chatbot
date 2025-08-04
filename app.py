@@ -101,4 +101,4 @@ for speaker, text in st.session_state.chat_history:
     st.markdown(f"**{speaker}:** {text}")
 
 st.markdown("---")
-st.markdown("<p style='text-align:center; font-size:13px; color:gray;'>Built with ❤️ using Streamlit</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center; font-size:13px; color:gray;'>Built by Kaif Ansari with ❤️ using Streamlit </p>", unsafe_allow_html=True)
